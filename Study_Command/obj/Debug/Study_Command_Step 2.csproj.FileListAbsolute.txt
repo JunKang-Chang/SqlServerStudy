@@ -1,0 +1,7 @@
+E:\myCode\MySQLStudy\Solution1\Study_Command\bin\Debug\Study_Command.exe.config
+E:\myCode\MySQLStudy\Solution1\Study_Command\bin\Debug\Study_Command.exe
+E:\myCode\MySQLStudy\Solution1\Study_Command\bin\Debug\Study_Command.pdb
+E:\myCode\MySQLStudy\Solution1\Study_Command\obj\Debug\Study_Command_Step 2.csproj.AssemblyReference.cache
+E:\myCode\MySQLStudy\Solution1\Study_Command\obj\Debug\Study_Command_Step 2.csproj.CoreCompileInputs.cache
+E:\myCode\MySQLStudy\Solution1\Study_Command\obj\Debug\Study_Command.exe
+E:\myCode\MySQLStudy\Solution1\Study_Command\obj\Debug\Study_Command.pdb

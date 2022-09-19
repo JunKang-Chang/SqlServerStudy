@@ -1,0 +1,7 @@
+E:\myCode\MySQLStudy\Solution1\Study_LianJieChi\bin\Debug\Study_LianJieChi.exe.config
+E:\myCode\MySQLStudy\Solution1\Study_LianJieChi\bin\Debug\Study_LianJieChi.exe
+E:\myCode\MySQLStudy\Solution1\Study_LianJieChi\bin\Debug\Study_LianJieChi.pdb
+E:\myCode\MySQLStudy\Solution1\Study_LianJieChi\obj\Debug\Study_LianJieChi.csproj.AssemblyReference.cache
+E:\myCode\MySQLStudy\Solution1\Study_LianJieChi\obj\Debug\Study_LianJieChi.csproj.CoreCompileInputs.cache
+E:\myCode\MySQLStudy\Solution1\Study_LianJieChi\obj\Debug\Study_LianJieChi.exe
+E:\myCode\MySQLStudy\Solution1\Study_LianJieChi\obj\Debug\Study_LianJieChi.pdb

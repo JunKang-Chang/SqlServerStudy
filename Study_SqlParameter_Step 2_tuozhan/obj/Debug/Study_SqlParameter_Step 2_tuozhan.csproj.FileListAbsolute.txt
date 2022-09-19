@@ -1,0 +1,7 @@
+E:\myCode\MySQLStudy\Solution1\Study_SqlParameter_Step 2_tuozhan\bin\Debug\Study_SqlParameter_Step 2_tuozhan.exe.config
+E:\myCode\MySQLStudy\Solution1\Study_SqlParameter_Step 2_tuozhan\bin\Debug\Study_SqlParameter_Step 2_tuozhan.exe
+E:\myCode\MySQLStudy\Solution1\Study_SqlParameter_Step 2_tuozhan\bin\Debug\Study_SqlParameter_Step 2_tuozhan.pdb
+E:\myCode\MySQLStudy\Solution1\Study_SqlParameter_Step 2_tuozhan\obj\Debug\Study_SqlParameter_Step 2_tuozhan.csproj.AssemblyReference.cache
+E:\myCode\MySQLStudy\Solution1\Study_SqlParameter_Step 2_tuozhan\obj\Debug\Study_SqlParameter_Step 2_tuozhan.csproj.CoreCompileInputs.cache
+E:\myCode\MySQLStudy\Solution1\Study_SqlParameter_Step 2_tuozhan\obj\Debug\Study_SqlParameter_Step 2_tuozhan.exe
+E:\myCode\MySQLStudy\Solution1\Study_SqlParameter_Step 2_tuozhan\obj\Debug\Study_SqlParameter_Step 2_tuozhan.pdb

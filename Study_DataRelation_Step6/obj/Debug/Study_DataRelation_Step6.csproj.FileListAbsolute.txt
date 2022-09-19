@@ -1,0 +1,7 @@
+E:\myCode\MySQLStudy\Solution1\Study_DataRelation_Step6\bin\Debug\Study_DataRelation_Step6.exe.config
+E:\myCode\MySQLStudy\Solution1\Study_DataRelation_Step6\bin\Debug\Study_DataRelation_Step6.exe
+E:\myCode\MySQLStudy\Solution1\Study_DataRelation_Step6\bin\Debug\Study_DataRelation_Step6.pdb
+E:\myCode\MySQLStudy\Solution1\Study_DataRelation_Step6\obj\Debug\Study_DataRelation_Step6.csproj.AssemblyReference.cache
+E:\myCode\MySQLStudy\Solution1\Study_DataRelation_Step6\obj\Debug\Study_DataRelation_Step6.csproj.CoreCompileInputs.cache
+E:\myCode\MySQLStudy\Solution1\Study_DataRelation_Step6\obj\Debug\Study_DataRelation_Step6.exe
+E:\myCode\MySQLStudy\Solution1\Study_DataRelation_Step6\obj\Debug\Study_DataRelation_Step6.pdb

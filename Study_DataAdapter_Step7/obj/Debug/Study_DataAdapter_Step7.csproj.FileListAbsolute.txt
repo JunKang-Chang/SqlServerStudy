@@ -1,0 +1,7 @@
+E:\myCode\MySQLStudy\Solution1\Study_DataAdapter_Step7\bin\Debug\Study_DataAdapter_Step7.exe.config
+E:\myCode\MySQLStudy\Solution1\Study_DataAdapter_Step7\bin\Debug\Study_DataAdapter_Step7.exe
+E:\myCode\MySQLStudy\Solution1\Study_DataAdapter_Step7\bin\Debug\Study_DataAdapter_Step7.pdb
+E:\myCode\MySQLStudy\Solution1\Study_DataAdapter_Step7\obj\Debug\Study_DataAdapter_Step7.csproj.AssemblyReference.cache
+E:\myCode\MySQLStudy\Solution1\Study_DataAdapter_Step7\obj\Debug\Study_DataAdapter_Step7.csproj.CoreCompileInputs.cache
+E:\myCode\MySQLStudy\Solution1\Study_DataAdapter_Step7\obj\Debug\Study_DataAdapter_Step7.exe
+E:\myCode\MySQLStudy\Solution1\Study_DataAdapter_Step7\obj\Debug\Study_DataAdapter_Step7.pdb

@@ -1,0 +1,7 @@
+E:\myCode\MySQLStudy\Solution1\Study_DataReader_Step3\bin\Debug\Study_DataReader_Step3.exe.config
+E:\myCode\MySQLStudy\Solution1\Study_DataReader_Step3\bin\Debug\Study_DataReader_Step3.exe
+E:\myCode\MySQLStudy\Solution1\Study_DataReader_Step3\bin\Debug\Study_DataReader_Step3.pdb
+E:\myCode\MySQLStudy\Solution1\Study_DataReader_Step3\obj\Debug\Study_DataReader_Step3.csproj.AssemblyReference.cache
+E:\myCode\MySQLStudy\Solution1\Study_DataReader_Step3\obj\Debug\Study_DataReader_Step3.csproj.CoreCompileInputs.cache
+E:\myCode\MySQLStudy\Solution1\Study_DataReader_Step3\obj\Debug\Study_DataReader_Step3.exe
+E:\myCode\MySQLStudy\Solution1\Study_DataReader_Step3\obj\Debug\Study_DataReader_Step3.pdb

@@ -1,0 +1,7 @@
+E:\myCode\MySQLStudy\Solution1\Study_Connect\bin\Debug\Study_Connect.exe.config
+E:\myCode\MySQLStudy\Solution1\Study_Connect\bin\Debug\Study_Connect.exe
+E:\myCode\MySQLStudy\Solution1\Study_Connect\bin\Debug\Study_Connect.pdb
+E:\myCode\MySQLStudy\Solution1\Study_Connect\obj\Debug\Study_Connect.csproj.AssemblyReference.cache
+E:\myCode\MySQLStudy\Solution1\Study_Connect\obj\Debug\Study_Connect.csproj.CoreCompileInputs.cache
+E:\myCode\MySQLStudy\Solution1\Study_Connect\obj\Debug\Study_Connect.exe
+E:\myCode\MySQLStudy\Solution1\Study_Connect\obj\Debug\Study_Connect.pdb
